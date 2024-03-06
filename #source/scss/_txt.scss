@@ -1,0 +1,96 @@
+.text_16 {
+  font-family: Kumbh Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  @media screen and (max-width: 768px) {
+    font-size: 14px;
+  }
+}
+.text_24 {
+  font-family: Kumbh Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  @media screen and (max-width: 1024px) {
+    font-size: 16px;
+  }
+  @media screen and (max-width: 768px) {
+    font-size: 14px;
+  }
+}
+.title_40 {
+  color: #fff;
+  font-family: "Josefin Sans";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 40px */
+  text-transform: uppercase;
+  @media screen and (max-width: 1024px) {
+    font-size: 24px;
+  }
+}
+.title_48 {
+  color: #0d4d8f;
+  text-align: center;
+  font-family: "Josefin Sans";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%;
+  @media screen and (max-width: 1024px) {
+    font-size: 32px;
+  }
+  @media screen and (max-width: 768px) {
+    font-size: 24px;
+  }
+}
+.title_32 {
+  font-family: "Josefin Sans";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  @media screen and (max-width: 1024px) {
+    font-size: 24px;
+  }
+}
+.title_24 {
+  text-align: center;
+  font-family: "Kumbh Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%; /* 24px */
+  @media screen and (max-width: 1024px) {
+    font-size: 20px;
+  }
+}
+.title_20 {
+  font-family: "Josefin Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%; /* 20px */
+  @media screen and (max-width: 1024px) {
+    font-size: 16px;
+  }
+  @media screen and (max-width: 768px) {
+    font-size: 14px;
+  }
+}
+.section-title {
+  color: #fdfdfd;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  @media screen and (max-width: 1024px) {
+    font-size: 24px;
+  }
+}
