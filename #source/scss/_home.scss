@@ -266,6 +266,12 @@
       transition: all 0.1s linear;
     }
   }
+  .slider-navigation {
+    display: none;
+    @media screen and (max-width: 744px) {
+      display: flex;
+    }
+  }
 }
 .aboutSection {
   position: relative;
